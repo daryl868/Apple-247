@@ -1,0 +1,89 @@
+{
+  "settings": {
+    "days": 7,
+    "timezone_offset": "-0400",
+    "logo": "https://iili.io/wwppKG.md.png",
+    "group_title": "EN✦ Apple TV+ Series",
+    "output_xml": "appletv_series_epg.xml",
+    "output_m3u": "appletv_series.m3u"
+  },
+  "channels": [
+    {
+      "id": "appletv.info",
+      "name": "Apple TV+ Series info ᴴᴰ",
+      "show": "Apple TV+ Series Info",
+      "subtitle": "24/7 Information Channel",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64888.ts"
+    },
+    {
+      "id": "appletv.series1",
+      "name": "Apple TV+ Series 1 ᴴᴰ",
+      "show": "Monarch: Legacy of Monsters",
+      "subtitle": "Season 2 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64889.ts"
+    },
+    {
+      "id": "appletv.series2",
+      "name": "Apple TV+ Series 2 ᴴᴰ",
+      "show": "Criminal Record",
+      "subtitle": "Season 2 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64890.ts"
+    },
+    {
+      "id": "appletv.series3",
+      "name": "Apple TV+ Series 3 ᴴᴰ",
+      "show": "Your Friends & Neighbors",
+      "subtitle": "Season 2 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64891.ts"
+    },
+    {
+      "id": "appletv.series4",
+      "name": "Apple TV+ Series 4 ᴴᴰ",
+      "show": "Cape Fear",
+      "subtitle": "Season 1 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64892.ts"
+    },
+    {
+      "id": "appletv.series5",
+      "name": "Apple TV+ Series 5 ᴴᴰ",
+      "show": "Imperfect Women",
+      "subtitle": "Season 1 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64893.ts"
+    },
+    {
+      "id": "appletv.series6",
+      "name": "Apple TV+ Series 6 ᴴᴰ",
+      "show": "Margo's Got Money Troubles",
+      "subtitle": "Season 1 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64894.ts"
+    },
+    {
+      "id": "appletv.series7",
+      "name": "Apple TV+ Series 7 ᴴᴰ",
+      "show": "Star City",
+      "subtitle": "Season 1 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64895.ts"
+    },
+    {
+      "id": "appletv.series8",
+      "name": "Apple TV+ Series 8 ᴴᴰ",
+      "show": "For All Mankind",
+      "subtitle": "Season 5 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64896.ts"
+    },
+    {
+      "id": "appletv.series9",
+      "name": "Apple TV+ Series 9 ᴴᴰ",
+      "show": "Widow's Bay",
+      "subtitle": "Season 1 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64897.ts"
+    },
+    {
+      "id": "appletv.series10",
+      "name": "Apple TV+ Series 10 ᴴᴰ",
+      "show": "Shrinking",
+      "subtitle": "Season 3 (2026)",
+      "stream_url": "http://goiptv.club:80/81696815/96058230/64898.ts"
+    }
+  ]
+}
