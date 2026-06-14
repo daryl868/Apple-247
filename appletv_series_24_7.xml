@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="ChatGPT XMLTV">
+  <channel id="appletv.info">
+    <display-name>Apple TV+ Series info ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series1">
+    <display-name>Apple TV+ Series 1 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series2">
+    <display-name>Apple TV+ Series 2 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series3">
+    <display-name>Apple TV+ Series 3 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series4">
+    <display-name>Apple TV+ Series 4 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series5">
+    <display-name>Apple TV+ Series 5 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series6">
+    <display-name>Apple TV+ Series 6 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series7">
+    <display-name>Apple TV+ Series 7 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series8">
+    <display-name>Apple TV+ Series 8 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series9">
+    <display-name>Apple TV+ Series 9 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+  <channel id="appletv.series10">
+    <display-name>Apple TV+ Series 10 ᴴᴰ</display-name>
+    <icon src="https://iili.io/wwppKG.md.png" />
+  </channel>
+
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260614000000 -0400" stop="20260615000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260615000000 -0400" stop="20260616000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260616000000 -0400" stop="20260617000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260617000000 -0400" stop="20260618000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260618000000 -0400" stop="20260619000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260619000000 -0400" stop="20260620000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.info">
+    <title>Apple TV+ Series Info</title>
+    <sub-title>24/7 Information Channel</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series1">
+    <title>Monarch: Legacy of Monsters</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series2">
+    <title>Criminal Record</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series3">
+    <title>Your Friends &amp; Neighbors</title>
+    <sub-title>Season 2 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series4">
+    <title>Cape Fear</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series5">
+    <title>Imperfect Women</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series6">
+    <title>Margo's Got Money Troubles</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series7">
+    <title>Star City</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series8">
+    <title>For All Mankind</title>
+    <sub-title>Season 5 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series9">
+    <title>Widow's Bay</title>
+    <sub-title>Season 1 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+  <programme start="20260620000000 -0400" stop="20260621000000 -0400" channel="appletv.series10">
+    <title>Shrinking</title>
+    <sub-title>Season 3 (2026)</sub-title>
+    <desc>24/7 channel</desc>
+  </programme>
+
+</tv>
